@@ -1,0 +1,24 @@
+🐍 Snake Game – Advanced Java Edition
+
+A fast-paced upgraded Snake Game built using Java Swing, featuring levels, enemies, power-ups, skins, high score saving, and modern UI improvements.
+
+🎮 Gameplay Summary
+
+You control a snake that grows longer each time it eats food.
+Avoid hitting the walls, yourself, or the enemy.
+Survive as long as possible while scoring the highest points!
+
+As score increases → Level increases, game becomes faster ⚡
+Special power-ups and multiple skins make gameplay exciting!
+🧪 How to Run
+
+Make sure you have Java JDK 8+ installed.
+
+javac SnakeGame.java
+java SnakeGame
+🕹️ Controls
+Key	Action
+⬆️⬇️⬅️➡️	Move the Snake
+P	Pause / Resume
+R	Restart Game
+1 / 2 / 3	Change Snake Skin
